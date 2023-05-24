@@ -1,0 +1,18 @@
+Diccionario de datos:
+
+    Fecha: 			Fecha del suceso.
+    Hora declarada: 		Hora del suceso.
+    Ruta: 			Lugar del suceso.
+    Operador: 			Aerolínea.
+    Número de vuelo: 		Número de vuelo.
+    Ruta: 			Lugar de origen y destino del vuelo.
+    Registro: 			Identificación de vuelo por aerolínea y número de avión.
+    CN_LN: 			Número de serie o identificador del avión. **Buscar más información.
+    Todos a bordo: 		Cantidad de pasajeros junto con la tripulación (PASAJEROS A BORDO + tripulación a bordo).
+    Pasajeros a bordo: 		Cantidad de pasajeros a bordo sin tripulación.
+    Tripulación a bordo: 	Tripulación a bordo.
+    Cantidad de fallecidos: 	Pasajeros fallecidos en el accidente.
+    Pasajeros fallecidos: 	Cantidad de pasajeros fallecidos.
+    Tripulantes fallecidos: 	Cantidad de tripulantes fallecidos.
+    Ground: 			Personas muertas productos del suceso que no estaban el el vuelo. **Buscar más información.
+    Resumen: 			Breve resumen del suceso.
